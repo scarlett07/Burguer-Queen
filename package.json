@@ -1,0 +1,30 @@
+{
+  "name": "BurguerQueen",
+  "version": "1.0.0",
+  "description": "ejercicio de react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Scarlett",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^4.0.0",
+    "browserify": "^16.1.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "reactstrap": "^5.0.0-beta.3",
+    "watchify": "^3.11.0"
+  },
+  "devDependencies": {
+    "babelify": "^8.0.0"
+  }
+}
